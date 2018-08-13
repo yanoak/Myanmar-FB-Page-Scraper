@@ -9,4 +9,4 @@ app_id = ""
 app_secret = ""
 ```
 
-[facebook_analyser.ipynb](facebook_analyser.ipynb) is used to make simple plots from the CSv files produced after scraping the pages. The data folder contains scraped page data.
+[facebook_analyser.ipynb](facebook_analyser.ipynb) is used to make simple plots from the CSV files produced after scraping the pages. The data folder contains scraped page data.
